@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋  <br><br>💻 I’m a Front-End Developer passionate about building interactive and user-friendly web applications.  <br>⚡ Skilled in **React.js**, **Next.js**, **Wordpress**, and modern JavaScript/TypeScript.  <br>🎨 I love turning ideas into clean, responsive, and pixel-perfect designs.  <br><br>👯 I’m looking to collaborate on:  <br>&nbsp;&nbsp;&nbsp;&nbsp;• Open-source projects related to front-end development  <br>&nbsp;&nbsp;&nbsp;&nbsp;• Web apps built with **React/Next.js**  <br>&nbsp;&nbsp;&nbsp;&nbsp;• UI/UX-driven projects with Tailwind CSS  <br><br>🤝 I’m looking for help with:  <br>&nbsp;&nbsp;&nbsp;&nbsp;• Improving performance and scalability in large React/Next.js apps  <br>&nbsp;&nbsp;&nbsp;&nbsp;• Best practices for headless CMS integrations  <br><br>🌱 I’m currently learning:  <br>&nbsp;&nbsp;&nbsp;&nbsp;• **TypeScript** for scalable applications  <br>&nbsp;&nbsp;&nbsp;&nbsp;• **Three.js / React Three Fiber** for 3D web experiences  <br>&nbsp;&nbsp;&nbsp;&nbsp;• **GraphQL** for modern data fetching  <br><br>💬 Ask me about:  <br>&nbsp;&nbsp;&nbsp;&nbsp;• React & Next.js best practices  <br>&nbsp;&nbsp;&nbsp;&nbsp;• Tailwind CSS tips for building beautiful UIs  <br>&nbsp;&nbsp;&nbsp;&nbsp;• How to structure scalable front-end projects  <br><br>📫 How to reach me: [Your LinkedIn] | [Your Email]  <br>⚡ Fun fact: I enjoy exploring **creative UI animations** and bringing ideas to life on the web 🚀  <br>
+### Hi there 👋  <br><br>💻 I’m a Front-End Developer passionate about building interactive and user-friendly web applications.  <br>⚡ Skilled in **React.js**, **Next.js**, **Wordpress**, and modern JavaScript/TypeScript.  <br>🎨 I love turning ideas into clean, responsive, and pixel-perfect designs.  <br><br>👯 I’m looking to collaborate on:  <br>&nbsp;&nbsp;&nbsp;&nbsp;• Open-source projects related to front-end development  <br>&nbsp;&nbsp;&nbsp;&nbsp;• Web apps built with **React/Next.js**  <br>&nbsp;&nbsp;&nbsp;&nbsp;• UI/UX-driven projects with Tailwind CSS  <br><br>🤝 I’m looking for help with:  <br>&nbsp;&nbsp;&nbsp;&nbsp;• Improving performance and scalability in large React/Next.js apps  <br>&nbsp;&nbsp;&nbsp;&nbsp;• Best practices for headless CMS integrations  <br><br>🌱 I’m currently learning:  <br>&nbsp;&nbsp;&nbsp;&nbsp;• **TypeScript** for scalable applications  <br>&nbsp;&nbsp;&nbsp;&nbsp;• **Three.js / React Three Fiber** for 3D web experiences  <br>&nbsp;&nbsp;&nbsp;&nbsp;• **GraphQL** for modern data fetching  <br><br>💬 Ask me about:  <br>&nbsp;&nbsp;&nbsp;&nbsp;• React & Next.js best practices  <br>&nbsp;&nbsp;&nbsp;&nbsp;• Tailwind CSS tips for building beautiful UIs  <br>&nbsp;&nbsp;&nbsp;&nbsp;• How to structure scalable front-end projects  <br><br>📫 How to reach me: saeediamir1381@gmail.com | https://www.linkedin.com/in/amir-saeedi/  <br>⚡ Fun fact: I enjoy exploring **creative UI animations** and bringing ideas to life on the web 🚀  <br>
 
 
 ## 🌐 Socials:
@@ -11,12 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=amir-saeedi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=amir-saeedi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-saeedi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amir-saeedi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amir-saeedi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amir-saeedi&icon=0&color=0)](https://visitcount.itsvg.in)
